@@ -1,4 +1,5 @@
 <application>
+      
   <component name="UpdatesConfigurable">
     <enabledExternalComponentSources>
       <item value="Android SDK" />
@@ -14,4 +15,5 @@
     <option name="LAST_BUILD_CHECKED" value="IC-192.7142.36" />
     <option name="LAST_TIME_CHECKED" value="1574575407937" />
   </component>
+ 
 </application>
